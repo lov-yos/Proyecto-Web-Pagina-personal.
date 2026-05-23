@@ -278,7 +278,7 @@ body.registro{
         padding: 20px 10px;
     }
     .deslizar, .botones{
-        position: static !important;
+        position: static ;
         text-align: center;
         margin: 15px 0;
         width: 100%;;
@@ -288,11 +288,17 @@ body.registro{
         margin: 10px 0;
     }
     .slider{
-        height: 250px !important;
+        height: 250px ;
         width: 100%;
     }
     .slider-container{
-        height: 250px;
+        height: 220px;
+    }
+    .fondo{
+        width: 90%;
+        max-width: 450px;
+        height: auto;
+
     }
  }
 
