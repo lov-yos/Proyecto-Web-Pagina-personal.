@@ -287,6 +287,13 @@ body.registro{
         font-size: 1.8rem;
         margin: 10px 0;
     }
+    .slider{
+        height: 250px !important;
+        width: 100%;
+    }
+    .slider-container{
+        height: 250px;
+    }
  }
 
       
